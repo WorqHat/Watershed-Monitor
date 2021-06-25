@@ -1,0 +1,61 @@
+@media (min-width:768px) {
+    .htop {
+        min-height: 100%;
+    }
+    .msection {
+        min-height: 100%;
+        padding: 6em 0;
+    }
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+.content {
+    margin-bottom: 80px;
+}
+
+#mainNav {
+    background-color: black;
+}
+
+.htop {
+    background-color: white;
+    color: black;
+    position: relative;
+    margin-top: 50px;
+    width: 100%;
+    text-align: center;
+    min-height: auto;
+    background-size: cover;
+    font-size: 1em;
+    padding: 3em;
+}
+
+.footer {
+    height: auto;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+.card, .card-body {
+    padding: 1em;
+}
+
+h1.float-xs-right {
+    color:	#808080;
+    font-size: 3rem;
+}
+
+#map {
+    height: 94%;  
+    width: 100%;  
+    background-color: grey;
+   }
+
+form, label {
+    color: black;
+}
