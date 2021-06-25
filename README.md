@@ -1,4 +1,4 @@
-# watershed-monitor
+# Watershed Monitor
 The Watershed Monitor Application allows the public to report observations related to Water Conservation Best Practices, Violations, and Water Quality Data.
 
 Use the map to explore data reported by others, and to report your own observations.
